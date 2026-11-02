@@ -1,0 +1,18 @@
+[
+  {"campaign_id": "C001", "name": "Black Friday 2017",
+   "start": "2017-11-24", "end": "2017-11-27",
+   "target_states": ["ALL"], "categories": ["ALL"], "priority": 1},
+  {"campaign_id": "C002", "name": "Back to School SP",
+   "start": "01/02/2018", "end": "28/02/2018", "date_format": "DD/MM/YYYY",
+   "target_states": ["SP"], "categories": ["stationery", "books_general_interest"], "priority": 3},
+  {"campaign_id": "C003", "name": "Tech Week",
+   "start": "2018-03-05T03:00:00Z", "end": "2018-03-12T02:59:59Z",
+   "target_states": ["SP", "RJ", "MG"],
+   "categories": ["computers_accessories", "electronics", "telephony"], "priority": 2},
+  {"campaign_id": "C004", "name": "Mother's Day",
+   "start": "2018-05-01", "end": "2018-05-13",
+   "target_states": ["ALL"], "categories": ["health_beauty", "perfumery", "watches_gifts"], "priority": 2},
+  {"campaign_id": "C005", "name": "Mother's Day South",
+   "start": "2018-05-07", "end": "2018-05-13",
+   "target_regions": ["Sul"], "categories": ["health_beauty", "perfumery"], "priority": 2}
+]

@@ -1,0 +1,191 @@
+[
+ {
+  "sigla": "AC",
+  "nome": "Acre",
+  "regiao": {
+   "nome": "Norte"
+  }
+ },
+ {
+  "sigla": "AP",
+  "nome": "Amapá",
+  "regiao": {
+   "nome": "Norte"
+  }
+ },
+ {
+  "sigla": "AM",
+  "nome": "Amazonas",
+  "regiao": {
+   "nome": "Norte"
+  }
+ },
+ {
+  "sigla": "PA",
+  "nome": "Pará",
+  "regiao": {
+   "nome": "Norte"
+  }
+ },
+ {
+  "sigla": "RO",
+  "nome": "Rondônia",
+  "regiao": {
+   "nome": "Norte"
+  }
+ },
+ {
+  "sigla": "RR",
+  "nome": "Roraima",
+  "regiao": {
+   "nome": "Norte"
+  }
+ },
+ {
+  "sigla": "TO",
+  "nome": "Tocantins",
+  "regiao": {
+   "nome": "Norte"
+  }
+ },
+ {
+  "sigla": "AL",
+  "nome": "Alagoas",
+  "regiao": {
+   "nome": "Nordeste"
+  }
+ },
+ {
+  "sigla": "BA",
+  "nome": "Bahia",
+  "regiao": {
+   "nome": "Nordeste"
+  }
+ },
+ {
+  "sigla": "CE",
+  "nome": "Ceará",
+  "regiao": {
+   "nome": "Nordeste"
+  }
+ },
+ {
+  "sigla": "MA",
+  "nome": "Maranhão",
+  "regiao": {
+   "nome": "Nordeste"
+  }
+ },
+ {
+  "sigla": "PB",
+  "nome": "Paraíba",
+  "regiao": {
+   "nome": "Nordeste"
+  }
+ },
+ {
+  "sigla": "PE",
+  "nome": "Pernambuco",
+  "regiao": {
+   "nome": "Nordeste"
+  }
+ },
+ {
+  "sigla": "PI",
+  "nome": "Piauí",
+  "regiao": {
+   "nome": "Nordeste"
+  }
+ },
+ {
+  "sigla": "RN",
+  "nome": "Rio Grande do Norte",
+  "regiao": {
+   "nome": "Nordeste"
+  }
+ },
+ {
+  "sigla": "SE",
+  "nome": "Sergipe",
+  "regiao": {
+   "nome": "Nordeste"
+  }
+ },
+ {
+  "sigla": "DF",
+  "nome": "Distrito Federal",
+  "regiao": {
+   "nome": "Centro-Oeste"
+  }
+ },
+ {
+  "sigla": "GO",
+  "nome": "Goiás",
+  "regiao": {
+   "nome": "Centro-Oeste"
+  }
+ },
+ {
+  "sigla": "MT",
+  "nome": "Mato Grosso",
+  "regiao": {
+   "nome": "Centro-Oeste"
+  }
+ },
+ {
+  "sigla": "MS",
+  "nome": "Mato Grosso do Sul",
+  "regiao": {
+   "nome": "Centro-Oeste"
+  }
+ },
+ {
+  "sigla": "ES",
+  "nome": "Espírito Santo",
+  "regiao": {
+   "nome": "Sudeste"
+  }
+ },
+ {
+  "sigla": "MG",
+  "nome": "Minas Gerais",
+  "regiao": {
+   "nome": "Sudeste"
+  }
+ },
+ {
+  "sigla": "RJ",
+  "nome": "Rio de Janeiro",
+  "regiao": {
+   "nome": "Sudeste"
+  }
+ },
+ {
+  "sigla": "SP",
+  "nome": "São Paulo",
+  "regiao": {
+   "nome": "Sudeste"
+  }
+ },
+ {
+  "sigla": "PR",
+  "nome": "Paraná",
+  "regiao": {
+   "nome": "Sul"
+  }
+ },
+ {
+  "sigla": "RS",
+  "nome": "Rio Grande do Sul",
+  "regiao": {
+   "nome": "Sul"
+  }
+ },
+ {
+  "sigla": "SC",
+  "nome": "Santa Catarina",
+  "regiao": {
+   "nome": "Sul"
+  }
+ }
+]
